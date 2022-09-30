@@ -37,6 +37,9 @@ System::System()
 
 	this->m_fileEmpty = false;
 
+
+
+	
 }
 
 void System::initSystem()
