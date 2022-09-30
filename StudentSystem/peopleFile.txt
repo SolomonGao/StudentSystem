@@ -1,3 +1,0 @@
-1,Xing Gao,24,1, 2 
-2,Macbeth,31,2, 
-4,Xing,24,1, 
